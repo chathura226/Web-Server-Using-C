@@ -1,5 +1,5 @@
 # Web-Server-Using-C
-Instructions:
+## Instructions:
 	To execute t=and start the program compile the server.c file and run the a.out
 	It will start a server at localhost:2728
 	You can access the website by entering localhost:2728 in the browser
